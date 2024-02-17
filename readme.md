@@ -7,11 +7,12 @@
 
 
 <div>Languages:</div>
-  <img src="/public/languages.png" alt="" width="180">&nbsp;
+  <img src="/public/languages.png" alt="" width="195">&nbsp;
 
 <div>Tools:</div>
   <img src="/public/tools.png" alt="" width="450">&nbsp;
  
+<div>Tools:</div>
 
 
 

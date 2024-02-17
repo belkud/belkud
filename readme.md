@@ -3,6 +3,7 @@
 <h3 align="center">Computer science student, IT coder from Russia 🇷🇺</h3>
   <img src="/public/snake.gif" alt="" srcset="">
 <!--   <img src="/public/earth.gif" style="width: 200px;" alt="" srcset=""> -->
+ <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset="">
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/grasp/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" peak="40"/>&nbsp;

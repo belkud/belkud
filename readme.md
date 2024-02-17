@@ -8,9 +8,9 @@
 
 <div>Языки:</div>
 <div>
-  <img src="/public/JavaScript.png" alt="Java" width="80" peak="80"/>&nbsp;
-  <img src="/public/CSS.png" alt="Java" width="120" peak="120"/>&nbsp;
-  <img src="/public/JavaScript.png" alt="Java" width="80" peak="80"/>&nbsp;
+  <img src="/public/JavaScript.png" alt="Java" width="80">&nbsp;
+   <img src="/public/CSS.png" alt="Java" width="130" style="margin-top: 0px; margin-left: -30px;">&nbsp;
+  
 
 
 

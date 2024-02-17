@@ -6,7 +6,7 @@
  <!-- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset=""> -->
 
 
-<div>Languags:</div>
+<div>Languages:</div>
  
 
   <img src="/public/JavaScript.png" alt="Java" width="180">&nbsp;

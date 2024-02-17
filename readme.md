@@ -3,10 +3,10 @@
 <h3 align="center">Computer science student, IT coder from Russia 🇷🇺</h3>
   <img src="/public/snake.gif" alt="" srcset="">
 <!--   <img src="/public/earth.gif" style="width: 200px;" alt="" srcset=""> -->
- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset="">
+ <!-- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset=""> -->
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/grasp/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" peak="40"/>&nbsp;
+  <img src="/public/JavaScript.png" title="Java" alt="Java" width="40" peak="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/grasp/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" peak="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/grasp/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" peak="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/grasp/icons/materialui/materialui-original.svg" title="Materials UI" alt="Materials UI" width="40" peak="40"/>&nbsp;

@@ -7,15 +7,7 @@
 
 
 <div>Языки:</div>
-<div>
+ 
   <img src="/public/JavaScript.png" alt="Java" width="80">&nbsp;
-  <img src="/public/CSS.png" alt="Java" width="130" style="">&nbsp;
   
-  <img src="/public/JavaScript.png" alt="Java" width="80">&nbsp;
-
-
-
-
-
-
-</div>
+ 

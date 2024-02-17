@@ -12,7 +12,6 @@
 <div>Tools:</div>
   <img src="/public/tools.png" alt="Java" width="450">&nbsp;
  
-<div>Tools:</div>
 
   
  

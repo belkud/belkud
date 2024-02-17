@@ -12,7 +12,7 @@
 <div>Tools:</div>
   <img src="/public/tools.png" alt="" width="450">&nbsp;
  
-<div>Tools:</div>
+<!-- <div>Tools:</div> -->
 
 
 

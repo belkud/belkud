@@ -10,7 +10,7 @@
   <img src="/public/JavaScript.png" alt="Java" width="180">&nbsp;
 
 <div>Tools:</div>
-  <img src="/public/tools.png" alt="Java" width="350">&nbsp;
+  <img src="/public/tools.png" alt="Java" width="450">&nbsp;
  
 
   

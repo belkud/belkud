@@ -7,8 +7,11 @@
 
 
 <div>Languages:</div>
+  <img src="/public/JavaScript.png" alt="Java" width="180">&nbsp;
+
+<div>Tools:</div>
+  <img src="/public/JavaScript.png" alt="Java" width="180">&nbsp;
  
 
-  <img src="/public/JavaScript.png" alt="Java" width="180">&nbsp;
   
  

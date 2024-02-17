@@ -8,6 +8,6 @@
 
 <div>Языки:</div>
  
-  <img src="/public/JavaScript.png" alt="Java" width="80">&nbsp;
+  <img src="/public/JavaScript.png" alt="Java" width="180">&nbsp;
   
  

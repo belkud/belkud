@@ -3,7 +3,7 @@
 <h3 align="center">IT coder from Russia 🇷🇺</h3>
   <img src="/public/snake.gif" alt="" srcset="">
  
- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset="">
+ <!-- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset=""> -->
 
 
 <div>Languages:</div>

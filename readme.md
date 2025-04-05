@@ -5,6 +5,9 @@
  
  <!-- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset=""> -->
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <div>Languages:</div>
   <img src="/public/languages.png" alt="" width="195">&nbsp;

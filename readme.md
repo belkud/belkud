@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=dark&hide_border=false&border_radius=5&order=3" color="red" height="220" alt="belkud's Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=dark&hide_border=false&border_radius=5&order=3" background="red" height="220" alt="belkud's Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belkud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="languages graph"  />
 </div>
 

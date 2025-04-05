@@ -41,6 +41,6 @@
 
 <div align="center">
  
-![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1llah&theme=midnight_purple)  
+![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belkud&theme=midnight_purple)  
 
 </div>

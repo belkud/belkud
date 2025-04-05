@@ -4,6 +4,11 @@
   <img src="/public/snake.gif" alt="" srcset="">
  
  <!-- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset=""> -->
+###
+
+<h3 align="left">🔥   Моя статистика :</h3>
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=belkud&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />

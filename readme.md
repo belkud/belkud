@@ -6,7 +6,7 @@
  <!-- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset=""> -->
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥   My statistics :</h3>
 
 ###
 
@@ -25,17 +25,17 @@
 ###
 
 
-<h3 align="left">🛠 Языки:</h3>
+<h3 align="left">🛠 Languages:</h3>
   <img src="/public/languages.png" alt="" width="195">&nbsp;
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
   <img src="/public/tools.png" alt="" width="450">&nbsp;
 
  
 
 <div style="display: flex;" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=midnight_purple" alt="k1llah's Graph" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belkud&theme=midnight_purple" alt="k1llah's Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=midnight_purple" alt="belkud's Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belkud&theme=midnight_purple" alt="belkud's Graph" />
 </div>
 
 

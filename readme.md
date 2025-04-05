@@ -32,3 +32,8 @@
   <img src="/public/tools.png" alt="" width="450">&nbsp;
 
  
+
+<div style="display: flex;" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=midnight_purple" alt="k1llah's Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belkud&theme=midnight_purple" alt="k1llah's Graph" />
+</div>

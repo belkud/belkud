@@ -34,13 +34,12 @@
  
 
 <div style="display: flex;" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=midnight_purple" alt="belkud's Graph" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belkud&theme=midnight_purple" alt="belkud's Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=dark" alt="belkud's Graph" />
+![belkud's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belkud&theme=midnight_purple)  
 </div>
 
 
 <div align="center">
  
-![belkud's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belkud&theme=midnight_purple)  
 
 </div>

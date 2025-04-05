@@ -37,3 +37,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=midnight_purple" alt="k1llah's Graph" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belkud&theme=midnight_purple" alt="k1llah's Graph" />
 </div>
+
+
+<div align="center">
+ 
+![k1llah's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1llah&theme=midnight_purple)  
+
+</div>

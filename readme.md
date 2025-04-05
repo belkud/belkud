@@ -19,10 +19,16 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=belkud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=dark" alt="belkud's Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belkud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="220" alt="languages graph"  />
 </div>
 
 ###
+
+<div style="display: flex;" align="center">
+</div>
+
 
 
 <h3 align="left">🛠 Languages:</h3>
@@ -33,13 +39,3 @@
 
  
 
-<div style="display: flex;" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=dark" alt="belkud's Graph" />
-![belkud's Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belkud&theme=midnight_purple)  
-</div>
-
-
-<div align="center">
- 
-
-</div>

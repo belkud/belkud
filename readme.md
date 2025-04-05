@@ -25,15 +25,10 @@
 ###
 
 
-<div>Languages:</div>
+<h3 align="left">🛠 Языки:</h3>
   <img src="/public/languages.png" alt="" width="195">&nbsp;
 
-<div>Tools:</div>
+<h3 align="left">🛠 Технологии:</h3>
   <img src="/public/tools.png" alt="" width="450">&nbsp;
- 
-<div>Tools:</div>
 
-
-
-  
  

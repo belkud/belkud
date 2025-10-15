@@ -22,6 +22,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belkud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="languages graph"  />
 </div>
 
+<br><br>
+
 <img src="/public/snake.gif" alt="" srcset="">
 
 ###

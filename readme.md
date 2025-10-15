@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm  Vladimir 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">IT coder from Russia 🇷🇺</h3>
-  <img src="/public/banner.png" width="817px" alt="" srcset="">
+  <img src="/public/banner.png" width="813px" alt="" srcset="">
   <img src="/public/snake.gif" alt="" srcset="">
  
  <!-- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset=""> -->

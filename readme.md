@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">IT coder from Russia 🇷🇺</h3>
   <img src="/public/banner.png" width="813px" alt="" srcset="">
-  <img src="/public/snake.gif" alt="" srcset="">
  
  <!-- <img style="width: 300px;" src="/public/spinners.webp" alt="" srcset=""> -->
 ###
@@ -22,6 +21,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belkud&theme=dark&hide_border=false&border_radius=5&order=3"  height="220" alt="belkud's Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belkud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="languages graph"  />
 </div>
+
+<img src="/public/snake.gif" alt="" srcset="">
 
 ###
 
